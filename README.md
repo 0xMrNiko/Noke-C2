@@ -1,9 +1,7 @@
 # Noke-C2
 Noke-C2 is a Command and Control Server Written in Powershell.
 
-Twitter :- [@_MrNiko](http://twitter.com/_MrNiko)
-
-Inspired BY :- https://github.com/ZHacker13/ReverseTCPShell
+Inspired BY :- @ZHacker13
 
 ```
  ________   ________  ___  __    _______              ________   _______     
@@ -48,10 +46,17 @@ Inspired BY :- https://github.com/ZHacker13/ReverseTCPShell
   AMSI            Bypass The Amsi In The Memory.
 ```
 
-## Usage
+# Usage
+
+Download The Script And Run it.(Windows Defender Off)
 ```
 ./noke.ps1
+```
+After Running The Script Run The Fowlling Command To Run C2.
+```
 Noke-C2
 ```
 
+# Contact
 
+Twitter :- [@_MrNiko](http://twitter.com/_MrNiko)

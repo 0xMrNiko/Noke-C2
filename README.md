@@ -1,5 +1,5 @@
 # Noke-C2
-Noke-C2 is a Command and Control Server Written in Powershell.
+Noke-C2 is a Command and Control Server and a Post-Exploitation Written in Powershell.
 
 Inspired BY :- @ZHacker13
 
